@@ -15,6 +15,8 @@ Submit your scheduler using sched-ext as a pull request to this repository, ensu
 
 The [implementations.md](./submissions/implementations.md) document provides details on the submission format.
 
+If you are planning to implement a scheduler in Rust, you can use this [template](https://github.com/arighi/scx_rust_scheduler) and follow these [steps](https://github.com/arighi/scx_rust_scheduler?tab=readme-ov-file#setting-up-a-virtual-environment-for-testing) to test it.
+
 You can also submit a unique scheduling policy idea to [ideas.md](./submissions/ideas.md).
 
 Try to surprise us...

@@ -1,4 +1,4 @@
-# Sched-ext Scheduler Contest FOSDEM'25
+# Sched-ext Scheduler Contest KIT'25
 
 ![Scheduler Contest Logo](./img/sched_contest.png)
 
@@ -23,9 +23,9 @@ Try to surprise us...
 
 ## Deadlines & Announcement:
 
-The submission deadline is **Sunday, 2 February, at 10:00 AM** (CET).
+The submission deadline is **Sunday, 9 March, at 23:59** (CET).
 
-Winners will be announced during Andrea Righi's talk on the [Kernel](https://fosdem.org/2025/schedule/track/kernel/) track, "[Level Up Your Linux Gaming: How Sched-ext Can Save Your FPS](https://fosdem.org/2025/schedule/event/fosdem-2025-4618-level-up-your-linux-gaming-how-schedext-can-save-your-fps/)," from **12:30 to 13:10**.
+Winners will be announced in the OS course ILIAS the following day.
 
 ## Prizes:
 
@@ -34,19 +34,15 @@ Winners will be announced during Andrea Righi's talk on the [Kernel](https://fos
 
 ## Important:
 
-To claim your prize, **you must be present during Andrea’s talk**. By participating, you agree to share your submission under GPL licensing and allow us to showcase it.
+To claim your prize, **you must be part of the ILIAS course and respond till end of March**. By participating, you agree to share your submission under GPL licensing and allow us to showcase it.
 
 ## Legal Note:
 
-This contest is for fun! We, Andrea and Johannes, select the winners based on our personal preferences and our own definition of "best". All decisions are final, and we’re not liable beyond delivering the prizes to the winners. If you have any questions, feel free to create a GitHub issue.
+This contest is for fun! We, Lukas Werling and Johannes Bechberger, select the winners based on our personal preferences and our own definition of "best". All decisions are final, and we’re not liable beyond delivering the prizes to the winners. If you have any questions, feel free to create a GitHub issue.
 
-There will be multiple talks at FOSDEM’25 on sched-ext:
+## Resources
+You can learn about sched-ext from the resources listed in the [wiki](https://github.com/sched-ext/scx/wiki), which includes a basic tutorial, and the videos in the [sched-ext playlist](https://www.youtube.com/playlist?list=PLLLT4NxU7U1TnhgFH6k57iKjRu6CXJ3yB) on YouTube.
 
-- [Concurrency Testing using Custom Linux Schedulers](https://fosdem.org/2025/schedule/event/fosdem-2025-4489-concurrency-testing-using-custom-linux-schedulers/) (Saturday, 12:00, [Testing and Continuous Delivery](https://fosdem.org/2025/schedule/track/testing/) track)
-- [Rust-ifying the Linux kernel scheduler (in user space)](https://fosdem.org/2025/schedule/event/fosdem-2025-4620-rust-ifying-the-linux-kernel-scheduler-in-user-space-/) (Saturday, 17:20, [Rust](https://fosdem.org/2025/schedule/track/rust/) track)
-- [Writing a Minimal Scheduler with eBPF, sched_ext, and C](https://fosdem.org/2025/schedule/event/fosdem-2025-4458-writing-a-minimal-scheduler-with-ebpf-schedext-and-c/) (Saturday, 18:20, [eBPF](https://fosdem.org/2025/schedule/track/ebpf/) track)
-- [Level up your Linux gaming: how sched_ext can save your fps](https://fosdem.org/2025/schedule/event/fosdem-2025-4618-level-up-your-linux-gaming-how-schedext-can-save-your-fps/) (Sunday, 12:30, [Kernel](https://fosdem.org/2025/schedule/track/kernel/) track)
-
-Come by and get yourself a sched-ext sticker and valuable information on this fascinating topic.
-
-In the meantime, you can learn about sched-ext from the resources listed in the [wiki](https://github.com/sched-ext/scx/wiki), which includes a basic tutorial, and the videos in the [sched-ext playlist](https://www.youtube.com/playlist?list=PLLLT4NxU7U1TnhgFH6k57iKjRu6CXJ3yB) on YouTube.
+The following repositories can be used to start playing around:
+- C code: https://github.com/parttimenerd/minimal-scheduler
+- Rust code: https://github.com/arighi/scx_rust_scheduler

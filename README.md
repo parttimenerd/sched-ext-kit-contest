@@ -2,7 +2,7 @@
 
 ![Scheduler Contest Logo](./img/sched_contest.png)
 
-Writing custom Linux schedulers is pretty easy using sched-ext. You can write your own tiny scheduler in a few lines of code using [C](https://mostlynerdless.de/blog/2024/10/25/a-minimal-scheduler-with-ebpf-sched_ext-and-c/), [Rust](https://github.com/sched-ext/scx), or even [Java](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/), see the [wiki](https://github.com/sched-ext/scx/wiki) for more. We're so confident in sched-ext that we're starting a Scheduler Contest for FOSDEM'25. Think you can craft the ultimate scheduler? A scheduler that does something interesting, helpful, or fun? Join our sched-ext contest and show us what you've got, with the chance of winning hand-crafted sched-ext swag!
+Writing custom Linux schedulers is pretty easy using sched-ext. You can write your own tiny scheduler in a few lines of code using [C](https://mostlynerdless.de/blog/2024/10/25/a-minimal-scheduler-with-ebpf-sched_ext-and-c/), [Rust](https://github.com/sched-ext/scx), or even [Java](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/), see the [wiki](https://github.com/sched-ext/scx/wiki) for more. We're so confident in sched-ext that we're starting a Scheduler Contest for the operation systems course at KIT. Think you can craft the ultimate scheduler? A scheduler that does something interesting, helpful, or fun? Join our sched-ext contest and show us what you've got, with the chance of winning hand-crafted sched-ext swag!
 
 ## How to participate:
 Submit your scheduler using sched-ext as a pull request to this repository, ensuring:
@@ -55,9 +55,11 @@ Other things referenced in the lecture
 - [Scheduler that emits sound](https://github.com/parttimenerd/sound-of-scheduling)
 - Erratic scheduler: [Code](https://github.com/parttimenerd/concurrency-fuzz-scheduler), [LWN article](https://lwn.net/SubscriberLink/1007689/922423e440f5e68a/), [Recording](https://fosdem.org/2025/schedule/event/fosdem-2025-4489-concurrency-testing-using-custom-linux-schedulers/)
 
-
 Sample Applications
 - [slowroads.io](https://slowroads.io)
 - [Aquarium](https://webglsamples.org/aquarium/aquarium.html)
 
-
+SAP
+- [Jobs](https://jobs.sap.com/search/?q=%23saporacareers&optionsFacetsDD_country=DE)
+- [Gardener](https://gardener.cloud/)
+- [SapMachine](https://sapmachine.io)

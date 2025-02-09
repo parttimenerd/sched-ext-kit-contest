@@ -44,5 +44,20 @@ This contest is for fun! We, Lukas Werling and Johannes Bechberger, select the w
 You can learn about sched-ext from the resources listed in the [wiki](https://github.com/sched-ext/scx/wiki), which includes a basic tutorial, and the videos in the [sched-ext playlist](https://www.youtube.com/playlist?list=PLLLT4NxU7U1TnhgFH6k57iKjRu6CXJ3yB) on YouTube.
 
 The following repositories can be used to start playing around:
-- C code: https://github.com/parttimenerd/minimal-scheduler
+- C code: https://github.com/parttimenerd/minimal-scheduler (blog post at [mostlynerdless.de](https://mostlynerdless.de/blog/2024/10/25/a-minimal-scheduler-with-ebpf-sched_ext-and-c/)
 - Rust code: https://github.com/arighi/scx_rust_scheduler
+
+Other things referenced in the lecture
+- [Real Life Lottery Scheduling](https://mostlynerdless.de/blog/2013/12/08/real-life-practice-in-lottery-scheduling/)
+- David Vernet's talk on Sched-ext: [Slides](https://archives.kernel-recipes.org/wp-content/uploads/2025/01/Sched_Ext.pdf), [Recording](https://www.youtube.com/watch?v=8kAcnNVSAdI), [Recording of additional talk](https://www.youtube.com/watch?v=skCBvHVrVhc), [Podcast Interview](https://www.youtube.com/watch?v=Ta0imAIz31M)
+- [Sched-ext patch](https://lwn.net/Articles/978911/)
+- Andrea Righi's talk: [Recording of previous talk](https://www.youtube.com/watch?v=jsLjg9tGuVI&t=9s), [Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-4618-level-up-your-linux-gaming-how-schedext-can-save-your-fps/slides/237450/Level_up_nKtb5A3.pdf)
+- [Scheduler that emits sound](https://github.com/parttimenerd/sound-of-scheduling)
+- Erratic scheduler: [Code](https://github.com/parttimenerd/concurrency-fuzz-scheduler), [LWN article](https://lwn.net/SubscriberLink/1007689/922423e440f5e68a/), [Recording](https://fosdem.org/2025/schedule/event/fosdem-2025-4489-concurrency-testing-using-custom-linux-schedulers/)
+
+
+Sample Applications
+- [slowroads.io](https://slowroads.io)
+- [Aquarium](https://webglsamples.org/aquarium/aquarium.html)
+
+
